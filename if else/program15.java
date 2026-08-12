@@ -10,8 +10,7 @@ if (y%4==0){
     System.out.println("ohh yeah!! this year is leap year ");
 }
 else {
-    System.out.println("year is not leap year");
-}
+    System.out.println("year is not leap year");}
 
 }    
 }

@@ -9,5 +9,4 @@ public class program5 {
     int area = l*b;
     int perimeter = 2*(l+b);
     System.out.println("area and perimeter is " + area +" and " + perimeter);
-    }
-}
+    }}
