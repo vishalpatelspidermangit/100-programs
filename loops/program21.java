@@ -1,5 +1,4 @@
 //Write a program to display all the natural numbers from 1 to n. (n is user input
-package loops;
 
 import java.util.Scanner;
 
