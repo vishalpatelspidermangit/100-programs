@@ -28,5 +28,6 @@ public class program46 {
 
             num++;
         }
+        scn.close();
             }
 }

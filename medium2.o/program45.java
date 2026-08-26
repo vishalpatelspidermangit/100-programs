@@ -20,7 +20,7 @@ public class program45 {
         System.out.println(n);
     }
    }
-   
+   scn.close();
     }
    } 
     

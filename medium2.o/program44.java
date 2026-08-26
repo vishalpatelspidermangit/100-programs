@@ -16,5 +16,6 @@ public class program44 {
         }
     }
     System.out.println("number is prime");
-}
+    scn.close();
+} 
 }
