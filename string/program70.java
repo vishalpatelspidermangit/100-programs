@@ -8,5 +8,6 @@ public class program70 {
         String sent = scn.nextLine();
         String[] words = sent.trim().split("\\s+");
         System.out.println(words.length);
+        scn.close();
     }
 }
